@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Usman Ahmed
-- 👀 I’m interested in JavaScript and it's frameWork
+- 👀 I’m interested in JavaScript 
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me usmanahmedkhan@live.com
