@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently Working on Node.js and Laravel<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with optimizing backend architecture and advanced Node.js patterns<br>🌱 I’m currently learning backend technologies <br>💬 Ask me about MongoDB with Laravel, Vue.js, and project management.<br>⚡ Fun fact  I’m passionate about creating efficient, scalable systems and enjoy exploring new tech trends!
+🔭 I'm currently Working on Node.js and Laravel<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with optimizing backend architecture and advanced Node.js patterns<br>🌱 I’m currently learning backend technologies <br>💬 Ask me about Vue.js, Node.js, Laravel with databases like MongoDB and MySQL.<br>⚡ Fun fact  I’m passionate about creating efficient, scalable systems and enjoy exploring new tech trends!
 
 
 # 💻 Tech Stack:
